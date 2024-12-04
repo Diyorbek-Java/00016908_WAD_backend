@@ -1,0 +1,6 @@
+@_00016908_backend_DALL_HostAddress = http://localhost:5222
+
+GET {{_00016908_backend_DALL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
